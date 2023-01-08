@@ -690,7 +690,7 @@ ptt: false, seconds: 0,contextInfo: {
  	}
      }
     }) 
-    // MAU YANG NO ENC fix-bot-v3 30K AJA , MINAT PC GW wa.me/6282124046059
+    // MAU YANG NO ENC fix-bot-v3 30K AJA , MINAT PC GW wa.me/6282124046059/wa.me/+1 (334) 528-0640
 
     // minus info-tqto.js dan info-script.js tetep di enc, karena banyak yang menghapus credit + script
     // kalau masih kekeh semua no enc 35k aja om
