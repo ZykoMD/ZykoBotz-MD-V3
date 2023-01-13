@@ -49,21 +49,21 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['6285806917113', '¶PYP¶', true],
+['6285806917113', '¶PYP¶', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628XXXXXXXXX' //pasang no bot lo 
-global.nomorown = '628XXXXXXXXX' //pasang no own lo
+global.nomorbot = '6281515854072' //pasang no bot lo 
+global.nomorown = '6285806917113' //pasang no own lo
 global.nomorown1 = '628XXXXXXXXX'
 global.nomorown2 = '628XXXXXXXXX'
 global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown = 'PYP-𝑀𝐷'
+global.gcname = 'PYP 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.author = 'Created By PYP-𝑀𝐷'
+global.namabot = 'PYP-𝗠𝗗'
+global.namebot = 'PYP-𝗠𝗗'
 global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -107,13 +107,13 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
+global.pdana = '085806917113' //pasang no lo sinih buat donasi 
+global.povo = '085806917113' 
+global.pgopay = '085806917113'
 global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '085806917113'
+global.ppulsa2 = '085806917113'
+global.psaweria = 'https://saweria.co/pixelyoga'
 global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
